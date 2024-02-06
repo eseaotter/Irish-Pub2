@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://eseaotter.github.io/Irish-Pub2/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://eseaotter.github.io/Irish-Pub2/</loc>
+</url>
+<url>
+<loc>https://eseaotter.github.io/Irish-Pub2/about-emma-c.html</loc>
+<lastmod>2024-02-05T13:08:48-08:00</lastmod>
+</url>
+<url>
+<loc>https://eseaotter.github.io/Irish-Pub2/home-page.html</loc>
+<lastmod>2024-02-05T13:22:33-08:00</lastmod>
+<image:image>
+<image:loc>https://eseaotter.github.io/Irish-Pub2/media/posts/5/pub-scene.jpeg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://eseaotter.github.io/Irish-Pub2/irish-pubs.html</loc>
+<lastmod>2024-02-05T13:22:49-08:00</lastmod>
+<image:image>
+<image:loc>https://eseaotter.github.io/Irish-Pub2/media/posts/3/closed.webp</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

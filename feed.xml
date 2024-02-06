@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Ireland&#x27;s Pubs</title>
+    <link href="https://eseaotter.github.io/Irish-Pub2/feed.xml" rel="self" />
+    <link href="https://eseaotter.github.io/Irish-Pub2" />
+    <updated>2024-02-05T13:22:49-08:00</updated>
+    <author>
+        <name>Emma Cotter</name>
+    </author>
+    <id>https://eseaotter.github.io/Irish-Pub2</id>
+
+    <entry>
+        <title>Background on Irish Pub Culture</title>
+        <author>
+            <name>Emma Cotter</name>
+        </author>
+        <link href="https://eseaotter.github.io/Irish-Pub2/home-page.html"/>
+        <id>https://eseaotter.github.io/Irish-Pub2/home-page.html</id>
+
+        <updated>2024-02-05T13:22:33-08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://eseaotter.github.io/Irish-Pub2/media/posts/5/pub-scene.jpeg" height="1000" width="1500" alt=""  sizes="100vw" srcset="https://eseaotter.github.io/Irish-Pub2/media/posts/5/responsive/pub-scene-xs.jpeg 300w ,https://eseaotter.github.io/Irish-Pub2/media/posts/5/responsive/pub-scene-sm.jpeg 480w ,https://eseaotter.github.io/Irish-Pub2/media/posts/5/responsive/pub-scene-md.jpeg 768w ,https://eseaotter.github.io/Irish-Pub2/media/posts/5/responsive/pub-scene-lg.jpeg 1024w ,https://eseaotter.github.io/Irish-Pub2/media/posts/5/responsive/pub-scene-xl.jpeg 1360w ,https://eseaotter.github.io/Irish-Pub2/media/posts/5/responsive/pub-scene-2xl.jpeg 1600w">
+      
+    </figure>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>About Emma C</title>
+        <author>
+            <name>Emma Cotter</name>
+        </author>
+        <link href="https://eseaotter.github.io/Irish-Pub2/about-emma-c.html"/>
+        <id>https://eseaotter.github.io/Irish-Pub2/about-emma-c.html</id>
+
+        <updated>2024-02-05T13:08:48-08:00</updated>
+            <summary>
+                <![CDATA[
+                    renfknerf
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    renfknerf
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>The Future of Irish Pubs</title>
+        <author>
+            <name>Emma Cotter</name>
+        </author>
+        <link href="https://eseaotter.github.io/Irish-Pub2/irish-pubs.html"/>
+        <id>https://eseaotter.github.io/Irish-Pub2/irish-pubs.html</id>
+
+        <updated>2024-02-05T13:22:49-08:00</updated>
+            <summary>
+                <![CDATA[
+                    Here we are looking at the stuff&nbsp; about more and stude
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <h2 id="here-we-are-looking-at-the-stuffandnbsp">
+      Here we are looking at the stuff&nbsp;
+    </h2>
+
+  <p>
+    about more and stude
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://eseaotter.github.io/Irish-Pub2/media/posts/3/closed.webp" height="485" width="970" alt=""  sizes="100vw" srcset="https://eseaotter.github.io/Irish-Pub2/media/posts/3/responsive/closed-xs.webp 300w ,https://eseaotter.github.io/Irish-Pub2/media/posts/3/responsive/closed-sm.webp 480w ,https://eseaotter.github.io/Irish-Pub2/media/posts/3/responsive/closed-md.webp 768w ,https://eseaotter.github.io/Irish-Pub2/media/posts/3/responsive/closed-lg.webp 1024w ,https://eseaotter.github.io/Irish-Pub2/media/posts/3/responsive/closed-xl.webp 1360w ,https://eseaotter.github.io/Irish-Pub2/media/posts/3/responsive/closed-2xl.webp 1600w">
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
+</feed>
